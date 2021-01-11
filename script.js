@@ -41,7 +41,7 @@ if(window.location.hash) {
 // } 
 
 
-let url="/links.json"
+let url="links.json"
 let dev, type, inspo, collections, readings;
 
 function getLinks(){
