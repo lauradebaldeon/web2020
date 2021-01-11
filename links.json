@@ -1,0 +1,190 @@
+{"links":[
+    {
+    "dev":[
+        {
+            "name":"Grasshopper",
+            "link":"https://learn.grasshopper.app/"
+        },
+        {
+            "name":"Superhi",
+            "link":"https://www.superhi.com/library/topics/code"
+        },
+        {
+            "name":"W3 Schools",
+            "link":"https://www.w3schools.com/"
+        },
+        {
+            "name":"Mozilla",
+            "link":"https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/Dealing_with_files" 
+        },
+        {
+            "name":"Smashing Magazine",
+            "link":"https://www.smashingmagazine.com/2012/10/why-coding-style-matters/"
+        },
+        {
+            "name":"Diveintohtml5",
+            "link":"http://diveintohtml5.info/semantics.html"
+        }, 
+        {
+            "name":"CSS Tricks",
+            "link":"https://css-tricks.com/"
+        },
+        {
+            "name":"Eloquent Javascript",
+            "link":"https://eloquentjavascript.net/"
+        },
+        {
+            "name":"The Coding Train (p5.js)",
+            "link":"https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw"
+        }
+            
+    ]}, 
+    {"type":[
+        {
+            "name":"Open Foundry",
+            "link":"https://open-foundry.com"
+        },
+        {
+            "name":"Velvetyne",
+            "link":"http://velvetyne.fr/"
+        },
+        {
+            "name":"Google Fonts",
+            "link":"https://fonts.google.com/"
+        },
+        {
+            "name":"Collletttivo",
+            "link":"http://collletttivo.it/" 
+        },
+        {
+            "name":"Use & Modify",
+            "link":"https://usemodify.com/"
+        },
+        {
+            "name":"Open Source Typeface list",
+            "link":"https://www.are.na/frederic-brodbeck/open-source-typefaces"
+        }, 
+        {
+            "name":"Type Foundries Archive",
+            "link":"http://type-foundries-archive.com/"
+        },
+        {
+            "name":"Eloquent Javascript",
+            "link":"https://eloquentjavascript.net/"
+        },
+        {
+            "name":"The Coding Train (p5.js)",
+            "link":"https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw"
+        }     
+    ]}, 
+    {"inspo":[
+        {
+            "name":"Hoverstat",
+            "link":"https://www.hoverstat.es/"
+        },
+        {
+            "name":"Hallointer.net",
+            "link":"http://hallointer.net/"
+        },
+        {
+            "name":"Brutalist Websites",
+            "link":"https://brutalistwebsites.com/"
+        },
+        {
+            "name":"ReadyMag",
+            "link":"https://readymag.com/examples/" 
+        },
+        {
+            "name":"Site Inspire",
+            "link":"https://www.siteinspire.com/"
+        }   
+    ]}, 
+    {"collections":[
+        {
+            "name":"E-Flux",
+            "link":"https://www.e-flux.com/"
+        },
+        {
+            "name":"The Creative Independent",
+            "link":"https://thecreativeindependent.com/"
+        },
+        {
+            "name":"Cyberfeminism Index",
+            "link":"https://cyberfeminismindex.com/"
+        },
+        {
+            "name":"Rhizome",
+            "link":"https://rhizome.org/" 
+        },
+        {
+            "name":"Hyperreadings",
+            "link":"http://hyperreadings.info/"
+        }   
+    ]}, 
+    {"readings":[
+        {
+            "name":"Personal Dynamic Media",
+            "link":"http://www.newmediareader.com/book_samples/nmr-26-kay.pdf"
+        },
+        {
+            "name":"The IRL Fetish",
+            "link":"https://thenewinquiry.com/the-irl-fetish/"
+        },
+        {
+            "name":"Machine Politics",
+            "link":"https://harpers.org/archive/2019/01/machine-politics-facebook-political-polarization/"
+        },
+        {
+            "name":"The City is My Homescreen",
+            "link":"https://medium.com/dark-matter-and-trojan-horses/the-city-is-my-homescreen-317673e0f57a" 
+        },
+        {
+            "name":"How Do I Avoid Being Overwhelmed by Computers",
+            "link":"https://thecreativeindependent.com/approaches/ask-tci-how-do-i-avoid-being-overwhelmed-by-computers-and-the-internet/"
+        }, 
+        {
+            "name":"My Website is a Shifting House",
+            "link":"https://thecreativeindependent.com/people/laurel-schwulst-my-website-is-a-shifting-house-next-to-a-river-of-knowledge-what-could-yours-be/"
+        }, 
+        {
+            "name":"Medium Design",
+            "link":"https://strelkamag.com/en/article/keller-easterling-medium-design"
+        }, 
+        {
+            "name":"The Friendship That Made Google Huge",
+            "link":"https://www.newyorker.com/magazine/2018/12/10/the-friendship-that-made-google-huge"
+        }, 
+        {
+            "name":"The Dark Side of Techno Utopianism",
+            "link":"https://www.newyorker.com/magazine/2019/09/30/the-dark-side-of-techno-utopianism"
+        }, 
+        {
+            "name":"Personal Voice",
+            "link":"https://www.artnews.com/art-in-america/features/personal-voice-63235/"
+        }, 
+        {
+            "name":"The Cyborg Manifesto",
+            "link":"https://www.sfu.ca/~decaste/OISE/page2/files/HarawayCyborg.pdf"
+        }, 
+        {
+            "name":"Ghost in the Machine",
+            "link":"https://www.dropbox.com/s/p5nf2esihc6r6ca/ghost_in_the_machine.pdf?dl=0"
+        },  
+        {
+            "name":"Sometimes it Looks Like a Duck, Sometimes It Looks Like a Rabbit",
+            "link":"http://linkedbyair.net/balkin.pdf"
+        }, 
+        {
+            "name":"In Defense of the Poor Image",
+            "link":"https://www.e-flux.com/journal/10/61362/in-defense-of-the-poor-image/"
+        }, 
+        {
+            "name":"A Vernacular Web",
+            "link":"http://art.teleportacia.org/observation/vernacular/"
+        }          
+    ]}
+
+]}
+
+
+
