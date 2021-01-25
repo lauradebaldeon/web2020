@@ -75,6 +75,7 @@ getLinks();
 
 $("h1").append("<span class='arrowRight'>&#9654</span>");
 
+
 function changeArrow(element){
 if($(".arrowRight").hasClass("arrowDown")){
     $(element).css("transform","rotate(90deg)");
