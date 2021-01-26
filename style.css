@@ -106,9 +106,8 @@ main{
 }
 
 .current ul{
-    /* display:block; */
+    display:block;
 }
-
 
 .nested{
     display:block!important;

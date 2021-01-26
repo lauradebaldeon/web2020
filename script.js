@@ -1,9 +1,17 @@
 $("h1").click(function(){
-    $(this).siblings("ul").toggle();
-    $(this).siblings("p").toggle();
-    $(this).children("span").toggleClass("arrowDown");
-    changeArrow($(this).children("span"));
-})
+    if($(this).children("span").hasClass("arrowDown")){
+        console.log("true");
+        $(this).siblings("ul").hide();
+        $(this).siblings("p").hide();
+        $(this).children("span").removeClass("arrowDown");
+    } else {
+        console.log("false");
+        $(this).siblings("ul").show();
+        $(this).siblings("p").show();
+        $(this).children("span").addClass("arrowDown");
+    }
+});
+
 
 let links=$("nav").children();
 let sections = $("section")
@@ -73,14 +81,6 @@ function getLinks(){
 getLinks();
 
 
+
 $("h1").append("<span class='arrowRight'>&#9654</span>");
-
-
-function changeArrow(element){
-if($(".arrowRight").hasClass("arrowDown")){
-    $(element).css("transform","rotate(90deg)");
-    console.log("yes");
-} else {
-    $(element).css("transform","rotate(0deg)");
-}
-};
+$(".current h1 span").addClass("arrowDown");
